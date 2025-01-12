@@ -7,19 +7,13 @@
 
 - 🔭 I’m currently working on **Betterplay Discord Bot**
 
-- 👯 I’m looking to collaborate on **web app projects**
+- 👯 I’m looking to collaborate on **Web app projects**
 
 - 🤝 I’m looking for help with **Frontend & Backend development**
-
-- 👨‍💻 All of my projects are available at [https://betterplay.com](https://betterplay.com)
-
-- 📝 I regularly write articles on [https://betterplay.com](https://betterplay.com)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **markojovanovicc23@outlook.com**
-
-- 📄 Know about my experiences [https://betterplay.com](https://betterplay.com)
 
 - ⚡ Fun fact **I know how to center div**
 
